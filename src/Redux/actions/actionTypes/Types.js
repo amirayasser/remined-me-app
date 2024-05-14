@@ -1,0 +1,6 @@
+// actionTypes.js
+export const ADD_REMINDER = 'ADD_REMINDER';
+export const EDIT_REMINDER = 'EDIT_REMINDER';
+export const DELETE_REMINDER = 'DELETE_REMINDER';
+export const DELETE_ALL = 'DELETE_ALL';
+export const TOGGLE_REMINDER_COMPLETED = 'TOGGLE_REMINDER_COMPLETED';
