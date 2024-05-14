@@ -8,7 +8,7 @@ This is a simple reminder application built with React and Redux. It allows user
 
 - Create reminders with a title and optional reminder date/time.
 - Edit existing reminders.
-- Delete reminders individually or clear all reminders at once.
+- Delete reminder.
 - Sound notifications for upcoming reminders.
 - Responsive design for mobile and desktop.
 
