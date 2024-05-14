@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/remined-me-app/static/css/main.f5535339.css",
+    "main.js": "/remined-me-app/static/js/main.9579f0ec.js",
+    "static/media/marimba-ringtone-2-185153.mp3": "/remined-me-app/static/media/marimba-ringtone-2-185153.0f74e651ecb997574730.mp3",
+    "index.html": "/remined-me-app/index.html",
+    "main.f5535339.css.map": "/remined-me-app/static/css/main.f5535339.css.map",
+    "main.9579f0ec.js.map": "/remined-me-app/static/js/main.9579f0ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5535339.css",
+    "static/js/main.9579f0ec.js"
+  ]
+}
